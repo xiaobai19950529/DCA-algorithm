@@ -1,0 +1,222 @@
+name,pop
+"Manhattan, KS",123086
+"Eugene, OR",351109
+"Bend, OR",158629
+"Medford, OR",201286
+"Seattle, WA",6815696
+"Portland, OR",2241841
+"Klamath Falls, OR",66543
+"San Francisco, CA",8635706
+"Los Angeles, CA",25749594
+"Wenatchee, WA",109937
+"Yakima, WA",239054
+"Elko, NV",49603
+"Spokane, WA",468684
+"Redding, CA",181099
+"Port Angeles, WA",71413
+"San Jose, CA",1839700
+"Eureka, CA",129623
+"Sacramento, CA",2127355
+"Fort Lauderdale, FL",5547051
+"Phoenix, AZ",4364094
+"Fresno, CA",915267
+"Tucson, AZ",1020200
+"Billings, MT",154553
+"Dallas, TX",12895230
+"Salt Lake City, UT",1130293
+"Reno, NV",419261
+"Fairbanks, AK",98660
+"Anchorage, AK",374553
+"El Paso, TX",751296
+"Chico, CA",220577
+"Albuquerque, NM",857903
+"Fort Smith, AR",293063
+"Las Vegas, NV",1902834
+"Wichita, KS",612683
+"Duluth, MN",276368
+"Oklahoma City, OK",1227278
+"San Diego, CA",3053793
+"Oakland, CA",4317853
+"Houston, TX",5867489
+"Dubuque, IA",93072
+"Helena, MT",73412
+"Tulsa, OK",929015
+"Omaha, NE",849517
+"Waco, TX",233378
+"Austin, TX",1705075
+"Peoria, IL",375865
+"Wausau, WI",131612
+"Colorado Springs, CO",626227
+"Grand Junction, CO",146093
+"Wichita Falls, TX",147607
+"Aberdeen, SD",39139
+"Brainerd, MN",91257
+"Amarillo, TX",246474
+"Bismarck, ND",106286
+"Missoula, MT",108623
+"Lubbock, TX",276659
+"Midland, TX",132316
+"Madison, WI",570025
+"Lincoln, NE",298012
+"Waterloo, IA",164913
+"Green Bay, WI",304783
+"La Crosse, WI",132923
+"Kalispell, MT",89624
+"Milwaukee, WI",1559667
+"Bellingham, WA",200434
+"Des Moines, IA",562906
+"Eau Claire, WI",160018
+"Rapid City, SD",124766
+"Little Rock, AR",685488
+"Shreveport, LA",391516
+"Kansas City, MO",2067585
+"Grand Forks, ND",97261
+"Bakersfield, CA",807407
+"San Antonio, TX",2072128
+"Minneapolis, MN",3269814
+"Springfield, MO",430900
+"Sioux Falls, SD",238122
+"Cedar Rapids, IA",256324
+"Fayetteville, AR",464623
+"Sioux City, IA",144360
+"Baton Rouge, LA",786947
+"Idaho Falls, ID",126131
+"Springfield, IL",208182
+"Santa Barbara, CA",407057
+"Corpus Christi, TX",416095
+"Chicago, IL",19161134
+"Bozeman, MT",90343
+"Monroe, LA",174086
+"Yuma, AZ",196972
+"Minot, ND",64412
+"Fargo, ND",200102
+"Rochester, MN",185618
+"St. Louis, MO",2828990
+"Nashville, TN",1582264
+"Evansville, IN",351911
+"Memphis, TN",1304926
+"Jackson, MS",540866
+"Modesto, CA",510385
+"Champaign, IL",226132
+"Indianapolis, IN",1743658
+"Bloomington, IL",167699
+"Twin Falls, ID",96558
+"Laredo, TX",241438
+"Akron, OH",699954
+"Cleveland, OH",2094051
+"College Station, TX",212268
+"Detroit, MI",8847562
+"Abilene, TX",160070
+"Dayton, OH",837036
+"Cincinnati, OH",2171896
+"Jackson, WY",30047
+"Columbus, OH",1801848
+"South Bend, IN",318129
+"Fort Wayne, IN",414315
+"Kalamazoo, MI",326634
+"Beaumont, TX",378477
+"Pocatello, ID",90273
+"Lawton, OK",113228
+"Toledo, OH",673345
+"Brownsville, TX",396371
+"San Angelo, TX",110119
+"San Luis Obispo, CA",266971
+"Killeen, TX",379569
+"Pittsburgh, PA",2355391
+"Erie, PA",280291
+"Ithaca, NY",101779
+"Elmira, NY",88331
+"Boston, MA",9177360
+"Atlanta, GA",5475213
+"Philadelphia, PA",11936504
+"Greensboro, NC",714765
+"Flint, MI",428859
+"Buffalo, NY",1124055
+"Newark, NJ",19069796
+"Bangor, ME",149419
+"Charlotte, NC",1745524
+"New York, NY",38139592
+"Syracuse, NY",646084
+"Richmond, VA",1238187
+"Grand Rapids, MI",778009
+"Allentown, PA",816012
+"Providence, RI",1600642
+"Lexington, KY",470849
+"Birmingham, AL",1131070
+"Atlantic City, NJ",271712
+"Orlando, FL",2082421
+"Portland, ME",516826
+"Harrisburg, PA",536919
+"Binghamton, NY",244870
+"Washington, DC",10952482
+"Albany, NY",857592
+"New Orleans, LA",1189981
+"Rochester, NY",1035566
+"Scranton, PA",549454
+"Roanoke, VA",300399
+"Raleigh, NC",1125827
+"Greenville, SC",639617
+"Burlington, VT",208055
+"Charleston, WV",304214
+"Charleston, SC",659191
+"Chattanooga, TN",524303
+"State College, PA",146212
+"Charlottesville, VA",196766
+"Lansing, MI",454605
+"Hartford, CT",1195998
+"Columbia, SC",744730
+"Manchester, NH",405906
+"Wilmington, NC",354525
+"Florence, SC",200653
+"Baltimore, MD",2690886
+"Greenville, NC",179715
+"Knoxville, TN",699247
+"Huntsville, AL",406316
+"Myrtle Beach, SC",263868
+"Saginaw, MI",200858
+"Tallahassee, FL",360013
+"Montgomery, AL",366401
+"Pensacola, FL",455102
+"Traverse City, MI",142350
+"Miami, FL",11094102
+"Gulfport, MS",238772
+"Alexandria, LA",154101
+"Tampa, FL",2747272
+"Santa Ana, CA",12874797
+"Honolulu, HI",907574
+"Hilo, HI",177835
+"Kahului, HI",145157
+"Lafayette, LA",263171
+"Ketchikan, AK",13081
+"Lake Charles, LA",194138
+"Mobile, AL",411721
+"Tyler, TX",204665
+"Jacksonville, FL",1328144
+"West Palm Beach, FL",5547051
+"Savannah, GA",343092
+"Flagstaff, AZ",129849
+"Columbus, GA",292795
+"Panama City, FL",164767
+"Gainesville, FL",260690
+"Fayetteville, NC",360355
+"Appleton, WI",221894
+"Marquette, MI",65703
+"Augusta, GA",539154
+"Asheville, NC",412672
+"Bemidji, MN",44350
+"Macon, GA",231576
+"Dothan, AL",142693
+"Jacksonville, NC",173064
+"Lynchburg, VA",247447
+"Key West, FL",73298
+"New Bern, NC",121022
+"St. George, UT",137473
+"New Haven, CT",848006
+"Rutland, VT",63214
+"Rockland, ME",40917
+"St. Cloud, MN",189148
+"Salisbury, MD",120181
+"Williamsport, PA",116840
+"Oxnard, CA",802983
+"Juneau, AK",30991
+"Kodiak, AK",13346
