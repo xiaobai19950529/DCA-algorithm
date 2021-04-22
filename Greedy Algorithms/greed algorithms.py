@@ -109,7 +109,8 @@ class GreedyADG:
                                 resources_temp[neighbor] = 0.0
                             else:
                                 self.reallocation[centre][neighbor][vertex] += currentDemand
-                                resources_temp[neighbor] -= currentDemand / self.graph[neighbor][vertex]
+                                #resources_temp[neighbor] -= currentDemand / self.graph[neighbor][vertex]
+                                resources_temp[neighbor] -= currentDemand
                         else:
                             break
     
