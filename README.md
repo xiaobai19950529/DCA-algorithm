@@ -1,4 +1,4 @@
-# AAAI-2021
+# Defending against Contagious Attacks on a Network with Resource Reallocation
 AAAI-2021 Paper code, dataset and algorithm
 
 Air_US, Facebook and Twitter are real-world datasets from Stanford Snap
